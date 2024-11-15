@@ -1,0 +1,12 @@
+All Details of the E-Commerce Testing Project
+
+----> .Xml file in Testing
+.. TestNG.xml file is a setup/configuration file that helps us in organizing our test cases in the right pattern
+.. It also help us in making Test Suites and Test methods. By using the XML file approach, it makes it to easy to understand the code
+
+----> Parallel Testing
+.. The main purpose of running tests in parallel mode is to reduce execution time and do maximum environment coverage (browsers/devices/environment) in less time.
+.. TestNG helps to run test methods/classes/tests in parallel. Using the testing.xml file, one can specify parallel attributes to classes, tests, and methods.
+
+
+----> Add Listeners and Generate reports using Screenshots of testcase. Generate Reports seperately.
