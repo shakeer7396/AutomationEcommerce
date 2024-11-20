@@ -6,7 +6,7 @@
 	</listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.ect.testcases.LoginTest"/>
+       <class name="com.ect.testcases.SearchTestCase"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
